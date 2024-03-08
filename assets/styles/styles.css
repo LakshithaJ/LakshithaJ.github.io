@@ -171,6 +171,9 @@ section ul {
   background-color: #f0f0f0;
   padding: 40px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 #contact-info img {
@@ -190,7 +193,9 @@ section ul {
   text-decoration: none;
   color: #333;
   margin: 10px;
-  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .contact-link.linkedin {
@@ -206,7 +211,7 @@ section ul {
 }
 
 .closing-remark {
-  margin-top: 20px;
+  margin-top: 40px;
   font-size: 0.9em;
   color: #666;
 }
