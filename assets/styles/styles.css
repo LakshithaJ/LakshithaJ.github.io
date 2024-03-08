@@ -74,6 +74,7 @@ html {
 
 #welcome-section h1 {
   font-weight: 550;
+  padding: 10px;
 }
 
 #scroll-down-arrow {
@@ -143,7 +144,7 @@ section li {
 }
 
 section p {
-  line-height: 15px;
+  line-height: 22px;
 }
 
 section p.section-header {
