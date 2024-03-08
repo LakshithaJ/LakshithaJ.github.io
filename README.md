@@ -8,4 +8,8 @@ Welcome to my Personal Website. Driven by a passion for creating seamless user e
 - 🔗 LinkedIn: [in/lakshitha-r-jain](https://www.linkedin.com/in/lakshitha-r-jain)
 - 🐙 GitHub: [LakshithaJ](https://github.com/LakshithaJ)
 
+### Visit My Personal Website
+
+- 🌐 [Lakshitha's Website](https://lakshithaj.github.io/)
+
 Let's create something amazing together.
